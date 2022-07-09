@@ -1,0 +1,22 @@
+.input-text{
+    font-size: 14px !important;
+    border-bottom: 1px solid black !important;
+    border-top: 0ch !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+
+}
+.label{
+    font-size: 10px !important;
+    margin-top: 2%;
+}
+
+.form-field{
+    padding-top: 4%;
+    margin-top: 1%;
+}
+
+.img{
+    border: none;
+    width: 200px !important;
+}
